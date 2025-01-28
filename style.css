@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 120vh;
+    background: black;
+}
+h1{
+    color: white;
+    font-family:serif;
+    padding: 10px 20px;
+}
+#svghome{
+    margin: -30px -10px;
+}
+.home{
+    display: inline-flex;
+}
+p{
+    color: white;
+    margin: 52px 0px;
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.search{
+    display: inline-flex;
+}
+#svgsearch{
+    margin: -10px -150px;
+}
+.text{
+    margin: -5px 160px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.explore{
+    display: flex;
+}
+#svgexplore{
+ margin: 12px 15px;
+}
+.exploretext{
+    margin: 18px 0px;
+}
+.reels{
+    display: flex;
+}
+#svgreels{
+    margin: 10px 20px;
+}
+.textreels{
+    margin: 20px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.messages{
+    display: flex;
+}
+#svgmessages{
+    margin: 10px 10px;
+}
+.textmessages{
+    margin: 21px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.notifications{
+    display: flex;
+}
+#svgnoti{
+    margin: 10px 10px;
+}
+.textnotif{
+    margin: 20px 0px;
+}
+.create{
+    display: flex;
+}
+#svgcreate{
+    margin: 10px 10px;
+}
+.textcreate{
+    margin: 20px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.profile{
+    display: flex;
+}
+#svgprof{
+    margin: 10px 10px;
+}
+.textprofile{
+    margin: 22px 10px;
+}
+.threads{
+    display: flex;
+}
+#svgthreads{
+    margin: 50px 0px;
+}
+.texthreads{
+    margin: 75px 0px;
+}
+.three{
+    display: flex;
+}
+#svgmore{
+    margin: -45px 10px;
+}
+.textmore{
+   margin: -27px 15px;
+}
