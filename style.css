@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 .container{
-    height: 120vh;
+    height: 135vh;
     background: black;
+
 }
 h1{
     color: white;
@@ -108,4 +109,52 @@ p{
 }
 .textmore{
    margin: -27px 15px;
+}
+.content{
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    color: white;
+    gap: 15px;
+}
+.circle{
+    margin: -900px 0px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 250px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+}
+img{
+    top: -700px;
+    left: 590px;
+    position: absolute;
+    width: 70vh;
+    height: 80vh;
+}
+
+.instatext{
+    color: white;
+    margin: -190px 0px;
+    position: absolute;
+    left: 590px;
+}
+.uppertext{
+    position: relative;
+    top: -800px;
+    left: -80px;
+}
+.c{
+    color: red;
+}
+.b{
+    color: cornflowerblue;
 }
